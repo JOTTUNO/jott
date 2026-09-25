@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jottxx
+- 👋 Hi, I’m @jott
 - 👀 I’m interested in cyber Security, anime and vedio games
 
 <!---
